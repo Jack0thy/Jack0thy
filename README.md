@@ -7,23 +7,17 @@ I work at the intersection of **protocol architecture** and **political theory**
 
 ---
 
+
 ## Technical and Research Focus
 
-I approach problems through two complementary lenses: building systems, and interrogating the assumptions embedded within them.
+My work spans both system implementation and critical analysis, with an emphasis on how technical design choices shape power, governance, and long-term institutional behavior.
 
 ### Technical Work
-- Rust, TypeScript, Motoko  
-- Internet Computer and EVM-based systems  
-- Smart contract and protocol architecture  
-- Technical documentation and whitepaper development  
-- LaTeX for structured, research-grade writing  
+I work primarily with Rust and TypeScript, building and analyzing protocol-level systems across the Internet Computer Protocol and EVM-based environments. My work includes smart contract and protocol architecture, identity and access models, and the translation of complex technical systems into language that can be understood, evaluated, and maintained. I rely heavily on LaTeX for research-grade writing and formal system description.
 
 ### Research Interests
-- Political economy of digital infrastructure  
-- Science and Technology Studies (STS)  
-- Decentralized identity and governance  
-- Commons-based peer production  
-- Institutional design in cryptoeconomic systems  
+My research sits at the intersection of political economy and technical infrastructure. I focus on decentralized identity, governance mechanisms, and commons-based systems, drawing from Science and Technology Studies (STS) to examine how digital systems encode power, legitimacy, and institutional values over time.
+
 
 ---
 
@@ -49,7 +43,7 @@ In practice, code functions more like a **constitutional draft** — defining wh
 My work is guided by three principles:
 
 1. **Sovereignty**  
-   Digital identity should be owned, not rented. Users must be able to exist, transact, and exit without reliance on opaque intermediaries.
+   Digital identity should be owned, not rented. Users must be able to exist, transact, and exit without reliance on centralized intermediaries.
 
 2. **Mechanism Design**  
    Protocols are economic and political systems. Their incentive structures determine whether they enable coordination or concentrate power. Design choices are never neutral.
